@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list-Todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  border-width: 1px;
+  border-radius: 5px;
+}
